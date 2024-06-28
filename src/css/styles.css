@@ -42,3 +42,30 @@
   text-transform: uppercase;
   font-weight: 600;
 }
+
+
+
+
+
+/*!=====================TASK 2======================== */
+
+.delay-label {
+  display: flex;
+  flex-direction: column;
+}
+
+.delay-input {
+  width: 250px;
+  height: 30px;
+}
+
+.fieldset {
+  width: 230px;
+  margin-left: 0;
+  margin-top: 5px;
+  margin-bottom: 8px;
+}
+
+.button {
+  width: 257px;
+}
